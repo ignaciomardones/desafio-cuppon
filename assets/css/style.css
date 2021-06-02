@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+}
+
+.card-body {
+    background-color: #FFFFFF;
+} 
+
+.fondomenu {
+    background-color: #28A745;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    opacity: 1;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.direccion {
+    color: #707070;
+}
+
+.oferta {
+    color: #28A745;
+}
+
+form {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+}
+
+small {
+    color: #707070;
+}
